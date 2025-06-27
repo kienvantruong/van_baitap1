@@ -1,0 +1,298 @@
+{
+    "status": true,
+    "msg": "",
+    "movie": {
+        "tmdb": {
+            "type": null,
+            "id": "",
+            "season": null,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        "imdb": {
+            "id": "",
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        "created": {
+            "time": "2022-08-21T02:47:03.000Z"
+        },
+        "modified": {
+            "time": "2022-08-21T02:47:03.000Z"
+        },
+        "_id": "63019ca70048e70b827a0615",
+        "name": "Mất Dấu",
+        "origin_name": "使徒行者",
+        "content": "<p>Bối cảnh phim Mất Dấu diễn ra vào năm 2014, Tổng thanh tra CIB sếp Trác - Trác Khải vì đồng nghiệp, sếp Khang – Khang Đạo Hành chết một cách bí ẩn, Trác Khải quyết tâm tìm lại nhóm 5 nội gián trước đây từng liên lạc với đồng nghiệp vừa chết của anh, lý do họ nắm giữ nhiều bí mật của cảnh sát ảnh hưởng đến an ninh cộng đồng.</p>",
+        "type": "series",
+        "status": "completed",
+        "thumb_url": "https://img.ophim.live/uploads/movies/mat-dau-thumb.jpg",
+        "poster_url": "https://img.ophim.live/uploads/movies/mat-dau-poster.jpg",
+        "is_copyright": false,
+        "sub_docquyen": false,
+        "chieurap": false,
+        "trailer_url": "",
+        "time": "45 phút/tập",
+        "episode_current": "Hoàn Tất (13/13)",
+        "episode_total": "31 Tập",
+        "quality": "HD",
+        "lang": "Lồng Tiếng",
+        "notify": "",
+        "showtimes": "",
+        "slug": "mat-dau",
+        "year": 2014,
+        "view": 469,
+        "actor": [
+            "Miêu Kiều Vỹ",
+            " Lâm Phong",
+            " Xa Thi Mạn",
+            " Trần Mẫn Chi"
+        ],
+        "director": [
+            "Văn Vĩ Hồng"
+        ],
+        "category": [
+            {
+                "id": "620a21b2e0fc277084dfd0c5",
+                "name": "Hành Động",
+                "slug": "hanh-dong"
+            },
+            {
+                "id": "620a2249e0fc277084dfd2e5",
+                "name": "Hình Sự",
+                "slug": "hinh-su"
+            }
+        ],
+        "country": [
+            {
+                "id": "620a2347e0fc277084dfd876",
+                "name": "Hồng Kông",
+                "slug": "hong-kong"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "server_name": "Lồng Tiếng #1",
+            "server_data": [
+                {
+                    "name": "1",
+                    "slug": "1",
+                    "filename": "mat-dau--eps-tap-1",
+                    "link_embed": "https://vip.opstream11.com/share/22ab54f07ab77a9bfffd6bbeae5ac19d",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35766_5870fdf0/index.m3u8"
+                },
+                {
+                    "name": "2",
+                    "slug": "2",
+                    "filename": "mat-dau--eps-tap-2",
+                    "link_embed": "https://vip.opstream11.com/share/0e496a795b47fd07c94a87ad94ac683d",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35767_9cf17e3d/index.m3u8"
+                },
+                {
+                    "name": "3",
+                    "slug": "3",
+                    "filename": "mat-dau--eps-tap-3",
+                    "link_embed": "https://vip.opstream11.com/share/a0b54f42bf035d7f3ee941e0fae94669",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35768_59e5acc6/index.m3u8"
+                },
+                {
+                    "name": "4",
+                    "slug": "4",
+                    "filename": "mat-dau--eps-tap-4",
+                    "link_embed": "https://vip.opstream11.com/share/2831648e9dac9b4618a0ab63d6a81e64",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35769_b3579042/index.m3u8"
+                },
+                {
+                    "name": "5",
+                    "slug": "5",
+                    "filename": "mat-dau--eps-tap-5",
+                    "link_embed": "https://vip.opstream11.com/share/ab8e98ac98803725b3e4550f9525e551",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35770_7a03fa65/index.m3u8"
+                },
+                {
+                    "name": "6",
+                    "slug": "6",
+                    "filename": "mat-dau--eps-tap-6",
+                    "link_embed": "https://vip.opstream11.com/share/a7c1aed2ae6b6ced5c3e83fb7c74d65d",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35771_2cf394d8/index.m3u8"
+                },
+                {
+                    "name": "7",
+                    "slug": "7",
+                    "filename": "mat-dau--eps-tap-7",
+                    "link_embed": "https://vip.opstream11.com/share/fedb9b30b75aca93755387e791897a53",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35772_c8143b54/index.m3u8"
+                },
+                {
+                    "name": "8",
+                    "slug": "8",
+                    "filename": "mat-dau--eps-tap-8",
+                    "link_embed": "https://vip.opstream11.com/share/89b0bf9a915d78c4d84bb40a137ac250",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35773_819099c3/index.m3u8"
+                },
+                {
+                    "name": "9",
+                    "slug": "9",
+                    "filename": "mat-dau--eps-tap-9",
+                    "link_embed": "https://vip.opstream11.com/share/fd2919424aa877f8510812adda653f71",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35774_6b466a26/index.m3u8"
+                },
+                {
+                    "name": "10",
+                    "slug": "10",
+                    "filename": "mat-dau--eps-tap-10",
+                    "link_embed": "https://vip.opstream11.com/share/dd27f2bc962dc976d5e3115fdc6120ce",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35775_f0e3e218/index.m3u8"
+                },
+                {
+                    "name": "11",
+                    "slug": "11",
+                    "filename": "mat-dau--eps-tap-11",
+                    "link_embed": "https://vip.opstream11.com/share/8fc48edfa46687fe1c64ce7a3a604ffa",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35776_01d283fb/index.m3u8"
+                },
+                {
+                    "name": "12",
+                    "slug": "12",
+                    "filename": "mat-dau--eps-tap-12",
+                    "link_embed": "https://vip.opstream11.com/share/a7921ea22e084f4c3f660b30749325c3",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35777_44ce0e47/index.m3u8"
+                },
+                {
+                    "name": "13",
+                    "slug": "13",
+                    "filename": "mat-dau--eps-tap-13",
+                    "link_embed": "https://vip.opstream11.com/share/3b05c9c3cce88159fe7c551d3e49a6df",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35778_419f1b97/index.m3u8"
+                },
+                {
+                    "name": "14",
+                    "slug": "14",
+                    "filename": "mat-dau--eps-tap-14",
+                    "link_embed": "https://vip.opstream11.com/share/378a2002497c5e2c5021572e8876ce48",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35779_c5e2535e/index.m3u8"
+                },
+                {
+                    "name": "15",
+                    "slug": "15",
+                    "filename": "mat-dau--eps-tap-15",
+                    "link_embed": "https://vip.opstream11.com/share/176d8075d8edfcba778b54b6749fe43c",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35780_6b115116/index.m3u8"
+                },
+                {
+                    "name": "16",
+                    "slug": "16",
+                    "filename": "mat-dau--eps-tap-16",
+                    "link_embed": "https://vip.opstream11.com/share/c56efcb8461a609417ef9da0d6bb6eb3",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35781_05db0c00/index.m3u8"
+                },
+                {
+                    "name": "17",
+                    "slug": "17",
+                    "filename": "mat-dau--eps-tap-17",
+                    "link_embed": "https://vip.opstream11.com/share/b948738d336d9db9f94f39c9a3c5f877",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35782_73580eca/index.m3u8"
+                },
+                {
+                    "name": "18",
+                    "slug": "18",
+                    "filename": "mat-dau--eps-tap-18",
+                    "link_embed": "https://vip.opstream11.com/share/f05c20c525af354f220fdbac1d0a948f",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35783_c6fda6c0/index.m3u8"
+                },
+                {
+                    "name": "19",
+                    "slug": "19",
+                    "filename": "mat-dau--eps-tap-19",
+                    "link_embed": "https://vip.opstream11.com/share/e71744c6fe643dbd169870b6a7fde794",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35784_6c440e47/index.m3u8"
+                },
+                {
+                    "name": "20",
+                    "slug": "20",
+                    "filename": "mat-dau--eps-tap-20",
+                    "link_embed": "https://vip.opstream11.com/share/f7c59863dbcc20bd6fedfa36f2329728",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35785_a408bccd/index.m3u8"
+                },
+                {
+                    "name": "21",
+                    "slug": "21",
+                    "filename": "mat-dau--eps-tap-21",
+                    "link_embed": "https://vip.opstream11.com/share/768ebda0321d58a46779869f1ac760ac",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35786_193a7bd2/index.m3u8"
+                },
+                {
+                    "name": "22",
+                    "slug": "22",
+                    "filename": "mat-dau--eps-tap-22",
+                    "link_embed": "https://vip.opstream11.com/share/ed6738f60889256f8dc7d9114f6ba525",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35787_7af06226/index.m3u8"
+                },
+                {
+                    "name": "23",
+                    "slug": "23",
+                    "filename": "mat-dau--eps-tap-23",
+                    "link_embed": "https://vip.opstream11.com/share/1a220dd17d9cabc5858dd5d7f2274f30",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35788_d3a8faac/index.m3u8"
+                },
+                {
+                    "name": "24",
+                    "slug": "24",
+                    "filename": "mat-dau--eps-tap-24",
+                    "link_embed": "https://vip.opstream11.com/share/efd33731692792594017105dc0931699",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35789_5387769c/index.m3u8"
+                },
+                {
+                    "name": "25",
+                    "slug": "25",
+                    "filename": "mat-dau--eps-tap-25",
+                    "link_embed": "https://vip.opstream11.com/share/2bfd7c7985715037980235d588dc2e9e",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35790_68e107e4/index.m3u8"
+                },
+                {
+                    "name": "26",
+                    "slug": "26",
+                    "filename": "mat-dau--eps-tap-26",
+                    "link_embed": "https://vip.opstream11.com/share/d361ccc5d896dfbad0fecfc1fe7fc9a1",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35791_5a471f8b/index.m3u8"
+                },
+                {
+                    "name": "27",
+                    "slug": "27",
+                    "filename": "mat-dau--eps-tap-27",
+                    "link_embed": "https://vip.opstream11.com/share/d2ce0c8b91e51a6bbda34c4bdc43ee54",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35792_7c64c635/index.m3u8"
+                },
+                {
+                    "name": "28",
+                    "slug": "28",
+                    "filename": "mat-dau--eps-tap-28",
+                    "link_embed": "https://vip.opstream11.com/share/75b106cadadfe7ffb2ae427acec5041d",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35793_a3400703/index.m3u8"
+                },
+                {
+                    "name": "29",
+                    "slug": "29",
+                    "filename": "mat-dau--eps-tap-29",
+                    "link_embed": "https://vip.opstream11.com/share/6d51a99b41cd166309b1f1be618e8bee",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35794_d6f14f4a/index.m3u8"
+                },
+                {
+                    "name": "30",
+                    "slug": "30",
+                    "filename": "mat-dau--eps-tap-30",
+                    "link_embed": "https://vip.opstream11.com/share/4ee8ca7221edcc2b35ec18f8b251e4fd",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35795_19583a96/index.m3u8"
+                },
+                {
+                    "name": "31",
+                    "slug": "31",
+                    "filename": "mat-dau--eps-tap-31",
+                    "link_embed": "https://vip.opstream11.com/share/dde5579a8906300056f1dcad56021c59",
+                    "link_m3u8": "https://vip.opstream11.com/20220818/35796_2e0a3a23/index.m3u8"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "status": true,
+    "msg": "",
+    "movie": {
+        "tmdb": {
+            "type": "tv",
+            "id": "220269",
+            "season": null,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        "imdb": {
+            "id": ""
+        },
+        "created": {
+            "time": "2025-05-13T12:36:44.000Z"
+        },
+        "modified": {
+            "time": "2025-05-20T17:49:48.000Z"
+        },
+        "_id": "6822da6c1d8c4377ea50d840",
+        "name": "Khom Lưng",
+        "slug": "khom-lung",
+        "origin_name": "The Prisoner of Beauty",
+        "content": "<p>Năm xưa, tổ phụ của Tiểu Kiều rút quân trước trận chiến khiến tổ tôn nhà họ Ngụy thiệt mạng, hai tộc từ đó kết thâm thù huyết hận. Mười bốn năm sau, Ngụy Thiệu, người may mắn sống sót năm đó, dẫn quân đến Yên Châu, ngoài mặt lấy danh nghĩa báo thù, thực chất là muốn tu sửa kênh Vĩnh Ninh. Nhìn thấu mục đích ấy, Tiểu Kiều quyết định thay người xuất giá, mong hóa giải nguy cho Yên Châu.</p>",
+        "type": "series",
+        "status": "ongoing",
+        "thumb_url": "https://img.ophim.live/uploads/movies/khom-lung-thumb.jpg",
+        "poster_url": "https://img.ophim.live/uploads/movies/khom-lung-poster.jpg",
+        "is_copyright": false,
+        "sub_docquyen": false,
+        "chieurap": false,
+        "trailer_url": "",
+        "time": "45 phút/tập",
+        "episode_current": "Tập 18",
+        "episode_total": "36 Tập",
+        "quality": "HD",
+        "lang": "Vietsub",
+        "notify": "",
+        "showtimes": "",
+        "year": 2025,
+        "view": 1267,
+        "actor": [
+            "宋祖儿",
+            "劉宇寧",
+            "Xuan Lu",
+            "刘端端",
+            "刘晓庆",
+            "何泓姗",
+            "李雪琴",
+            "Wang Chengsi",
+            "何潤東",
+            "Wei Zixin"
+        ],
+        "director": [
+            "Ke Deng"
+        ],
+        "category": [
+            {
+                "id": "620f3d2b91fa4af90ab697fe",
+                "name": "Chính kịch",
+                "slug": "chinh-kich"
+            }
+        ],
+        "country": [
+            {
+                "id": "62093063196e9f4ab6b448b8",
+                "name": "Trung Quốc",
+                "slug": "trung-quoc"
+            }
+        ]
+    },
+    "episodes": [
+        {
+            "server_name": "Vietsub #1",
+            "server_data": [
+                {
+                    "name": "1",
+                    "slug": "1",
+                    "filename": "EP01_ The Prisoner of Beauty - Free - China - TV - Traditional Costume - Romance - SongZu'er,Liu Yuning,Xuan Lu,Liu Duanduan,Hsiao-ching Liu",
+                    "link_embed": "https://vip.opstream90.com/share/e92e1b476bb5262d793fd40931e0ed53",
+                    "link_m3u8": "https://vip.opstream90.com/20250513/5523_e92e1b47/index.m3u8"
+                },
+                {
+                    "name": "2",
+                    "slug": "2",
+                    "filename": "EP02_ The Prisoner of Beauty - - China - TV - Traditional Costume - Romance - SongZu'er,Liu Yuning,Xuan Lu,Liu Duanduan,Hsiao-ching Liu",
+                    "link_embed": "https://vip.opstream90.com/share/81e3225c6ad49623167a4309eb4b2e75",
+                    "link_m3u8": "https://vip.opstream90.com/20250513/5524_81e3225c/index.m3u8"
+                },
+                {
+                    "name": "3",
+                    "slug": "3",
+                    "filename": "EP03_ The Prisoner of Beauty - - China - TV - Traditional Costume - Romance - SongZu'er,Liu Yuning,Xuan Lu,Liu Duanduan,Hsiao-ching Liu",
+                    "link_embed": "https://vip.opstream90.com/share/4b17d3264fd9070a5be706c853ccd720",
+                    "link_m3u8": "https://vip.opstream90.com/20250513/5525_4b17d326/index.m3u8"
+                },
+                {
+                    "name": "4",
+                    "slug": "4",
+                    "filename": "EP04_ The Prisoner of Beauty - - China - TV - Traditional Costume - Romance - SongZu'er,Liu Yuning,Xuan Lu,Liu Duanduan,Hsiao-ching Liu",
+                    "link_embed": "https://vip.opstream90.com/share/3eefceb8087e964f89c2d59e8a249915",
+                    "link_m3u8": "https://vip.opstream90.com/20250513/5526_3eefceb8/index.m3u8"
+                },
+                {
+                    "name": "5",
+                    "slug": "5",
+                    "filename": "EP05_ The Prisoner of Beauty - - China - TV - Traditional Costume - Romance - SongZu'er,Liu Yuning,Xuan Lu,Liu Duanduan,Hsiao-ching Liu",
+                    "link_embed": "https://vip.opstream90.com/share/249338e601902b14d0f529fe5e6ae417",
+                    "link_m3u8": "https://vip.opstream90.com/20250514/5621_249338e6/index.m3u8"
+                },
+                {
+                    "name": "6",
+                    "slug": "6",
+                    "filename": "EP06_ The Prisoner of Beauty - - China - TV - Traditional Costume - Romance - SongZu'er,Liu Yuning,Xuan Lu,Liu Duanduan,Hsiao-ching Liu",
+                    "link_embed": "https://vip.opstream90.com/share/b4681a619cf018eed690452faeb0e94f",
+                    "link_m3u8": "https://vip.opstream90.com/20250514/5622_b4681a61/index.m3u8"
+                },
+                {
+                    "name": "7",
+                    "slug": "7",
+                    "filename": "The Prisoner of Beauty - Tập 07---2025",
+                    "link_embed": "https://vip.opstream90.com/share/840d68cbbbfa627cd4635408a6c82009",
+                    "link_m3u8": "https://vip.opstream90.com/20250515/5755_840d68cb/index.m3u8"
+                },
+                {
+                    "name": "8",
+                    "slug": "8",
+                    "filename": "The Prisoner of Beauty - Tập 08---2025",
+                    "link_embed": "https://vip.opstream90.com/share/a13e00b0854808128933f99f4955f338",
+                    "link_m3u8": "https://vip.opstream90.com/20250515/5757_a13e00b0/index.m3u8"
+                },
+                {
+                    "name": "9",
+                    "slug": "9",
+                    "filename": "EP09_ The Prisoner of Beauty - - China - TV - Traditional Costume - Romance - SongZu'er,Liu Yuning,Xuan Lu,Liu Duanduan,Hsiao-ching Liu",
+                    "link_embed": "https://vip.opstream90.com/share/6fd9a99a5abed788d9afc9d52d54e91b",
+                    "link_m3u8": "https://vip.opstream90.com/20250516/5836_6fd9a99a/index.m3u8"
+                },
+                {
+                    "name": "10",
+                    "slug": "10",
+                    "filename": "EP10_ The Prisoner of Beauty - - China - TV - Traditional Costume - Romance - SongZu'er,Liu Yuning,Xuan Lu,Liu Duanduan,Hsiao-ching Liu",
+                    "link_embed": "https://vip.opstream90.com/share/d1e39c9bda5c80ac3d8ea9d658163967",
+                    "link_m3u8": "https://vip.opstream90.com/20250516/5837_d1e39c9b/index.m3u8"
+                },
+                {
+                    "name": "11",
+                    "slug": "11",
+                    "filename": "The Prisoner of Beauty - Tập 11---2025",
+                    "link_embed": "https://vip.opstream90.com/share/f9fd5ec4c141a95257aa99ef1b590672",
+                    "link_m3u8": "https://vip.opstream90.com/20250517/5897_f9fd5ec4/index.m3u8"
+                },
+                {
+                    "name": "12",
+                    "slug": "12",
+                    "filename": "The Prisoner of Beauty - Tập 12---2025",
+                    "link_embed": "https://vip.opstream90.com/share/eecccd8ff4107946c78d42265cd474b5",
+                    "link_m3u8": "https://vip.opstream90.com/20250517/5898_eecccd8f/index.m3u8"
+                },
+                {
+                    "name": "13",
+                    "slug": "13",
+                    "filename": "Khom Lưng - Tập 13---2025",
+                    "link_embed": "https://vip.opstream90.com/share/680390c55bbd9ce416d1d69a9ab4760d",
+                    "link_m3u8": "https://vip.opstream90.com/20250518/5963_680390c5/index.m3u8"
+                },
+                {
+                    "name": "14",
+                    "slug": "14",
+                    "filename": "Khom Lưng - Tập 14---2025",
+                    "link_embed": "https://vip.opstream90.com/share/c67ba7c4c5c0cd4cc3e3a7146fe5c015",
+                    "link_m3u8": "https://vip.opstream90.com/20250518/5964_c67ba7c4/index.m3u8"
+                },
+                {
+                    "name": "15",
+                    "slug": "15",
+                    "filename": "The Prisoner of Beauty - Tập 15---2025",
+                    "link_embed": "https://vip.opstream90.com/share/50c1f44e426560f3f2cdcb3e19e39903",
+                    "link_m3u8": "https://vip.opstream90.com/20250519/6005_50c1f44e/index.m3u8"
+                },
+                {
+                    "name": "16",
+                    "slug": "16",
+                    "filename": "The Prisoner of Beauty - Tập 16---2025",
+                    "link_embed": "https://vip.opstream90.com/share/91ba4a4478a66bee9812b0804b6f9d1b",
+                    "link_m3u8": "https://vip.opstream90.com/20250519/6006_91ba4a44/index.m3u8"
+                },
+                {
+                    "name": "17",
+                    "slug": "17",
+                    "filename": "The Prisoner of Beauty - Tập 17---2025",
+                    "link_embed": "https://vip.opstream90.com/share/5b8e9841e87fb8fc590434f5d933c92c",
+                    "link_m3u8": "https://vip.opstream90.com/20250520/6058_5b8e9841/index.m3u8"
+                },
+                {
+                    "name": "18",
+                    "slug": "18",
+                    "filename": "The Prisoner of Beauty - Tập 18---2025",
+                    "link_embed": "https://vip.opstream90.com/share/18b91b19f6a289e7708da7f778b2c609",
+                    "link_m3u8": "https://vip.opstream90.com/20250520/6059_18b91b19/index.m3u8"
+                }
+            ]
+        }
+    ]
+}

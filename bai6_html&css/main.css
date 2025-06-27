@@ -1,0 +1,26 @@
+#frist {
+    color: red;
+/* font-size: 20px; */
+}
+
+.second{
+    color: green;
+    font-size: 20px;
+}
+
+:root{
+    --text-color: rgb(0, 0, 0);
+}
+
+h1{
+    color: var(--text-color);
+}
+
+
+h2{
+    color: var(--text-color);
+}
+
+h3{
+    color: var(--text-color);
+}

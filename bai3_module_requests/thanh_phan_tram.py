@@ -1,0 +1,2 @@
+bar = []
+print(bar)

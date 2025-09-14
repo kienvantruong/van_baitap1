@@ -1,11 +1,13 @@
 from tkinter import *
 from tkinter import ttk
+import os
 import tkinter as tk
 import tkinter.messagebox
 from PIL import Image,ImageTk
 class POS:
     
     def __init__(self,root):
+        current_directory = os.getcwd()
         self.root = root
         self.root.title("Point of Sale")
         self.root.geometry("1350x750+0+0")
@@ -20,8 +22,7 @@ class POS:
         Qty = StringVar()
         Amount = StringVar()
         choice = StringVar()
-        print(__file__)
-        in_path = "C:/Users/Carini/Documents/GitHub/van_baitap1/bai4_tao_giao_dien/image/"
+        in_path = current_directory + "\\image\\"
         
         self.Coffee10 = Image.open(in_path +"coffee1.jpg")
         self.Coffee20 = Image.open(in_path +"coffee2.jpg")

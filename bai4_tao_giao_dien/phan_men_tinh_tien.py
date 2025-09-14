@@ -10,7 +10,7 @@ class POS:
         current_directory = os.getcwd()
         self.root = root
         self.root.title("Point of Sale")
-        self.root.geometry("1350x750+0+0")
+        self.root.geometry("1415x670+0+0")
         self.root.configure(background='cadetblue')
         
         Change_Input = StringVar()
@@ -22,7 +22,7 @@ class POS:
         Qty = StringVar()
         Amount = StringVar()
         choice = StringVar()
-        in_path = current_directory + "\\image\\"
+        in_path = current_directory + "\\bai4_tao_giao_dien\\image\\"
         
         self.Coffee10 = Image.open(in_path +"coffee1.jpg")
         self.Coffee20 = Image.open(in_path +"coffee2.jpg")
@@ -36,7 +36,7 @@ class POS:
         self.Drink30 = Image.open(in_path +"coke.jpg")
         self.Drink40 = Image.open(in_path +"Non_Alcoholic.jpg")
         self.Drink50 = Image.open(in_path +"Cocktails.jpg")
-        self.Drink60 = Image.open(in_path +"Just Drinks.jpg")
+        self.Drink60 = Image.open(in_path +"Just Drink.jpg")
         
         self.Cake10 = Image.open(in_path +"AngleCake.jpg")
         self.Cake20 = Image.open(in_path +"Easy Cake.jpg")
@@ -70,7 +70,7 @@ class POS:
         self.Coffee2 = PhotoImage(self.Coffee20)
         self.Coffee3 = PhotoImage(self.Coffee30) 
         self.Coffee4 = PhotoImage(self.Coffee40)
-        self.Coffee5 = PhotoImage(self.Coffee5)
+        self.Coffee5 = PhotoImage(self.Coffee50)
         self.Coffee6 = PhotoImage(self.Coffee60)
         
         self.Drink1 = PhotoImage(self.Drink10)

@@ -20,8 +20,8 @@ class POS:
         Qty = StringVar()
         Amount = StringVar()
         choice = StringVar()
-
-        in_path = "C:/Users/Gamer/Downloads/OPhimDownload/bai4_tao_giao_dien/"
+        print(__file__)
+        in_path = "C:/Users/Carini/Documents/GitHub/van_baitap1/bai4_tao_giao_dien/image/"
         
         self.Coffee10 = Image.open(in_path +"coffee1.jpg")
         self.Coffee20 = Image.open(in_path +"coffee2.jpg")

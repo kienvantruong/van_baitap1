@@ -33,14 +33,14 @@ print("Vui lòng đợi trong giây lát...")
 
 # Window
 window = Tk()
-window.geometry("600x200")
+window.geometry("605x200")
 window.resizable(width=False, height=False)
 window.title("OphimDownload")
 
 window.columnconfigure(0, weight=1)
 window.columnconfigure(1, weight=3)
 window.columnconfigure(2, weight=1)
-label2 = Label(text="Ophim Video Downloader", font=("Arial", 15))
+label2 = Label(text="Ophim Video Downloader(Only Ophim web)", font=("Arial", 15))
 label2.grid(column=1, row=0, sticky="ew")
 
 label4 = Label(text="Link Phim")
@@ -182,6 +182,7 @@ def browse_folder():
                 so_segment = so_segment + 1
                 tong_so_segments2 = so_segment * 100 / tong_so_segments
                 bbb = math.ceil(tong_so_segments2)
+                 
                 # os.system('cls')
                 if bbb < 10:
                     print("tìm kiếm file |",end="")
@@ -229,16 +230,21 @@ def browse_folder():
                                 # tăng idx để tiếp tục tìm
                         idx = idx + 1
                             # number_list = ts.split("_")[0]
-                    # print("chạy tới dòng 229") 
+                    print("chạy tới dòng 229") 
                                 
-                    output_file = inputSaveTo.get()+"/output.mp4"
+                    def file_name():
+                        name = inputFileName.get()
+                        return name
+                    output_file = inputSaveTo.get()+"/"+file_name()+".mp4"
                     with open(output_file, "wb") as outfile:
                         for ts_file in sorted_ts:
                             with open(ts_file, "rb") as infile:
                                 shutil.copyfileobj(infile, outfile)
                     # print("chạy tới dòng 325")
-    
 btnDownload = Button(text="Download",command=browse_folder)
-btnDownload.grid(row=3,column=1, sticky='e')
-
+btnDownload.grid(row=4,column=1, sticky='e')
+inputFileName = Entry()
+inputFileName.grid(row=3,column=1,sticky='ew')
+labelFileName = Label(text="File Name")
+labelFileName.grid(row=3,column=0, sticky='e')
 window.mainloop()

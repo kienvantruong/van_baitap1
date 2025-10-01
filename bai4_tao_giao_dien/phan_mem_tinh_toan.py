@@ -66,7 +66,7 @@ button3 = Button(text="3",font=("Arial",20),border=1,width=chieu_cao_nut,height=
 button3.grid(row=5,column=2,padx=2.5,pady=2.5)
 
 buttonnhan = Button(text="×",font=("Arial",35),border=1,width=chieu_cao_nut,height=chieu_dai_nut)
-buttonnhan.grid(row=3,column=0,padx=2.5,pady=2.5)
+buttonnhan.grid(row=3,column=3,padx=2.5,pady=2.5)
 
 
 
